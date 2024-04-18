@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html lang="ru">
+    <head>
+        <link rel="stylesheet" type="text/css" href="styles.css">
+        <meta charset="UTF-8">
+        <title>Задание №3</title>
+    </head>
+    <header>
+
+
+    <div class="header_site">
+        <h2>Природа</h2>
+        <p class="header_texts">Начало</p>
+        <p class="header_texts">Поиск</p>
+        <p class="header_texts">Об авторе</p>     
+    </div>
+    </header>
+    <body>
+        
+        <img class="image" src="images/forest1.jpg" alt="forest1">
+        <img class="image" src="images/forest2.jpg" alt="forest2">
+    </body>
+    <footer>
+        <div class="footer_site">
+            <p class="footer_name">Разработчик:</p>
+            <p class="footer_other">Кипяченков Егор Алексеевич</p>
+            <p class="footer_other">Сайт был создан при поддержке ГУАП</p>    
+    </footer>
+</html>
